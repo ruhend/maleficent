@@ -1,0 +1,38 @@
+{
+  "name": "anjing",
+  "version": "4.0.5",
+  "description": "Bot WhatsApp Simple Mudah Di Gunakan Dan Cepat",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js --pairing"
+  },
+  "keywords": [
+    "anjing",
+    "baileys",
+    "whatsapp",
+    "whatsapp-bot",
+    "games wabot",
+    "whatsapp bot",
+    "whatsapp bot md",
+    "simple whatsapp bot",
+    "whiskeysockets",
+    "whatsapp bot md"
+  ],
+  "author": "Ruhend Swatabanan",
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "memory-store-baileys": "latest",
+    "axios": "1.3.2",
+    "chalk": "2.4.2",
+    "cheerio": "1.0.0-rc.10",
+    "file-type": "16.5.4",
+    "jimp": "1.6.1",
+    "moment-timezone": "0.5.34",
+    "node-fetch": "2.7.0",
+    "node-os-simply": "0.0.2",
+    "node-os-utils": "1.3.7",
+    "node-webpmux": "3.0.0",
+    "ruhend-scraper": "10.0.3",
+    "syntax-error": "1.4.0"
+  }
+}
