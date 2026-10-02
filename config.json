@@ -1,0 +1,37 @@
+{
+   "owner": [
+      "62xxxxxx",
+      "62xxxx"
+   ],
+   "botNumber": "62xxx",
+   "usePairingCode": true,
+   "customPairing": "12345678",
+   "botName": "Maleficent Bot 💞",
+   "footer": "© Ruhend",
+   "ownerName": "Ruly Henderson Swatabanan",
+   "jidGroup": "undefined@g.us",
+   "prefix": [
+      ".",
+      "#",
+      "!",
+      "/"
+   ],
+   "evaluate": [
+      ">",
+      "eval",
+      "ev",
+      "=>",
+      "$",
+      "shell",
+      "exec"
+   ],
+   "cover": "https://files.catbox.moe/qogab9.jpeg",
+   "link": "https://chat.whatsapp.com/KYp9FlKMdcCJ2b2XIJOLAR",
+   "ram": "950 MB",
+   "usedPrefix": false,
+   "self": false,
+   "silentlog_all": false,
+   "eventAll": false,
+   "read": true,
+   "typing": true
+}
